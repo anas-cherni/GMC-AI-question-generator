@@ -1,5 +1,5 @@
 # GMC-AI-question-generator
-The whole project is hosted in the cloud, if you're one of the judges for GMC hackathon, you can find SSH creds in the presentation and thus you can read the src code from there. 
+The whole project is hosted in the cloud, if you're one of the judges for GMC hackathon, you can find SSH creds in the presentation and thus you can access the machine and read the src code from there. 
 
 The initial text was taken from Gmc course : example.pdf 
 You can find generated questions here : http://20.163.76.142/
